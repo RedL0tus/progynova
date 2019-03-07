@@ -1,0 +1,6 @@
+PKGNAME=libxss1
+PKGSEC=x11
+PKGDEP="x11-lib"
+PKGDES="Dummy package for Debiantai compatibility, libxscrnsaver is already in x11-lib"
+
+ABHOST=noarch
